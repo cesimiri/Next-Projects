@@ -31,24 +31,16 @@ function Navigation() {
                             <li>
                                 <Link href="/searchBox" className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Object With SearchBox</Link>
                             </li>
+                            <li>
+                                <Link href="/responsivePage" className="block py-2 px-3 text-gray-900 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-white md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Responsive Page</Link>
+                            </li>
                             
                         </ul>
                     </div>
                 </div>
             </nav>
 
-            /* <li>
-                <Link href="/"> Home </Link>
-            </li>
-            <li>
-                <Link href="/about"> About </Link>
-            </li>
-            <li>
-                <Link href="/service"> Service </Link>
-            </li>
-            <li>
-                <Link href="/rickAndMorty">Rick And Morty Project</Link>
-            </li> */
+            
         
     )
 }
