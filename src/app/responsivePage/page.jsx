@@ -23,7 +23,7 @@ function ResponsivePage() {
                     <p className="text-white">You score higher than 65%</p>
                 </article>
 
-                <article className="p-10 grid gap-6">
+                <article className="p-10 grid gap-6 md:bg-slate-600 md:rounded-b-2xl">
                     <h3 className="text-xl font-bold ">
                         Sumary
                     </h3>

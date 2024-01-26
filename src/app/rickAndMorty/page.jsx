@@ -28,8 +28,6 @@ export default async function rickAndMorty() {
                   </div>
                   
                 </div>
-
-
               </div>
             </li>
           ))
